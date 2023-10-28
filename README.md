@@ -38,8 +38,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,react,go,html,css,tailwind,vscode,nodejs,javascript,typescript,express" />
-    <img src="https://skillicons.dev/icons?i=github,git,aws,mongodb,postgres,redis,nginx,figma" />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=github,git,aws,postman,mongodb,postgres,redis,nginx,figma" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,linux,rabbitmq" />
   <br>
 </div>
 
