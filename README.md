@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on **Multichain Defi Applications**
 
- 🌱 I’m currently learning **Github Actions, Golang and NextJs**
+ 🌱 I’m currently learning **Subgraphs, Github Actions, Golang and NextJs**
    
  🥅 2024 Goals: **Contribute to opensource projects and participate in hackathons**
  
