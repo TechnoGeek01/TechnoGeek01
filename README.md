@@ -1,1 +1,1 @@
-Solving World Problems with AI
+Solving World Problems With AI
